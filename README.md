@@ -1,7 +1,7 @@
 # RecepiApp
 
 ## Overview
-RecepiApp is a simple Android application that allows users to browse recipes fetched from a public REST API.  
+RecepiApp is a Android application that allows users to browse recipes fetched from a public REST API.  
 The project demonstrates **modern Android UI**, **network integration**, and **clean UI state handling**.
 
 ---
